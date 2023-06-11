@@ -1,4 +1,4 @@
-# jogo_Da_Adivinhacao
+# jogo_Da_Adivinhacao V 0.1
 Criei esse pequeno e simples código em Linguagem C para um projeto da minha faculdade.
 
 
